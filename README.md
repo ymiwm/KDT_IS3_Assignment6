@@ -140,7 +140,7 @@ So replace it with ***MITRE ATT&CK Framework***.
 
 #### 8. WIP
 
-1. 단일 Diamond Model 구성은 모양새를 갖추었으나, 적절한 사용을 위해선 복수의 Diamond Model이 필요할 것으로 보임.
+1. 단일 Diamond Model 구성은 모양새를 갖추었으나, Activity Attack Graph를 이용한 관계도를 만들기 위해선 복수의 Diamond Model이 필요할 것으로 보임.
 
 2. Andariel을 포함하여 관련성이 높다고 생각되는 Lazarus, Kimsuky 등 다양한 Adversary에 대한 Model을 만들어 Activity Group Steps를 적용해보기.
 
